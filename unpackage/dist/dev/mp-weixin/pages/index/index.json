@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "search-box": "../../components/searchBox",
+    "recommend": "../../components/compound/recommend",
+    "book-list": "../../components/bookList",
+    "list-header": "../../components/listHeader"
+  }
+}

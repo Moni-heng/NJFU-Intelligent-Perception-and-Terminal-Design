@@ -1,0 +1,1 @@
+<view class="flex border align-center rounded mx-2 mt-1" style="height:60rpx;opacity:0.8"><my-icon wx:if="{{a}}" u-i="4feb2e97-0" bind:__l="__l" u-p="{{a}}"></my-icon><input class="font-sm flex-1" placeholder="请输入你想查询的图书名称" type="text"/></view>
